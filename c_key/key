@@ -1,0 +1,7 @@
+# async-signal-safe function
+man signal-safety
+
+# int fd, stdout
+STDOUT_FILENO
+STDIN_FILENO
+STDERR_FILENO
